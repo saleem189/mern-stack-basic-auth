@@ -203,5 +203,12 @@ restart nginx
 sudo systemctl restart nginx
 ```
 
+## snippets from amazon ec2 instace
+![image](https://github.com/saleem189/mern-stack-basic-auth/assets/75361545/de7e4c97-2713-418c-a45f-415b1f548662)
+
+#mern-app snippets
+![image](https://github.com/saleem189/mern-stack-basic-auth/assets/75361545/fd339d80-d280-4464-9320-f8c466c11a37)
+
+
 
 
