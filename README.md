@@ -25,8 +25,14 @@ module.exports = {
 };
 ```
 
-## Quick Start
-
+## Quick Start 
+## when running locally add proxy in project_folder/client/package.json
+```
+"proxy": "http://localhost:5000",
+```
+like this
+![image](https://github.com/saleem189/mern-stack-basic-auth/assets/75361545/da0e338c-a3a9-4e64-9159-ac0eee9e2589)
+    
 ```javascript
 // Install dependencies for server & client
 npm install && npm run client-install
